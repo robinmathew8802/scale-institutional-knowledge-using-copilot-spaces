@@ -44,3 +44,6 @@ Applies to all cross-functional projects that deliver product features, services
 ## How to use these docs
 - Keep the Project Charter updated in the project repo.
 - Add process-specific docs into `.copilot/` if you want Copilot Spaces to use them as context.
+- Use docs/persona-assignment-checklist.md to assign project personas and capture owners.
+- Use docs/release-coordination-checklist.md during release planning and execution to ensure coordination between roles.
+
